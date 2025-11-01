@@ -106,7 +106,7 @@ export default function Register() {
 
                     <button
                         type="submit"
-                        className="bg-green-600 text-white rounded p-3 font-semibold hover:bg-green-700 transition"
+                        className="bg-blue-600 text-white rounded p-3 font-semibold hover:bg-green-700 transition"
                     >
                         S'inscrire
                     </button>
